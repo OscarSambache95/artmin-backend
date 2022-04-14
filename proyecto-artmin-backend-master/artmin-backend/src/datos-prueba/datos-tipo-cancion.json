@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sencillo"
+  },
+  {
+    "id": 2,
+    "nombre": "Track"
+  },
+  {
+    "id": 3,
+    "nombre": "Promocional"
+  },
+  {
+    "id": 4,
+    "nombre": "Inédito"
+  }
+]

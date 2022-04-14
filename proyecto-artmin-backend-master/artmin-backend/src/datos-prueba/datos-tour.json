@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "The Born This Way Ball",
+    "descripcion": "The Born This Way Ball fue la tercera gira musical encabezada por la cantautora estadounidense Lady Gaga, a fin de promocionar su segundo álbum de estudio, Born This Way (2011). El recorrido inició el 27 de abril de 2012 en Seúl, Corea del Sur, y concluyó el 11 de febrero de 2013 en Montreal, Canadá. Inicialmente, se tenía previsto que terminase el 20 de marzo en la ciudad de Tulsa, Estados Unidos, pero debido a un desgarro del labrum en el área de la cadera que sufrió la intérprete, la compañía promotora de la gira, Live Nation, se vio obligada a cancelar todos los conciertos restantes para resguardar su salud. A lo largo del recorrido que duró diez meses, la cantante visitó África, América, Asia, Europa y Oceanía; por primera vez en su carrera, ofreció conciertos en países como Argentina, Bulgaria, Colombia, Estonia, Hong Kong y Sudáfrica.",
+    "sinopsis": "La sinopsis del concierto seguía a la cantante como una extraterrestre que había sido capturada por un gobierno espacial corrupto; ella consigue escapar y da nacimiento a una nueva raza sin prejuicios a fin de rebelarse. El escenario utilizada estuvo inspirado en un castillo medieval que mantiene el récord de la estructura más grande jamás construida para una gira musical",
+    "fechaInicio": "2012-04-27",
+    "fechaFin": "2012-04-27",
+    "lugarInicio": "Seúl, Corea del Sur",
+    "lugarFin": "Montreal, Canadá",
+    "cantidadShows": 98,
+    "cantidadTickets": 1781850,
+    "recaudacion": 183900000,
+    "anio": 2012,
+    "tipo": "gira"
+  }
+]

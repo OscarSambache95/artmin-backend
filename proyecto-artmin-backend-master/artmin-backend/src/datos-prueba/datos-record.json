@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "visitas en 24 horas",
+    "chart": 11,
+    "medida": 4
+  },
+  {
+    "id": 2,
+    "nombre": "reproducciones en 24 horas",
+    "chart": 9,
+    "medida": 4
+  },
+  {
+    "id": 3,
+    "nombre": "ventas en una semana",
+    "chart": 2,
+    "medida": 6
+  }
+]

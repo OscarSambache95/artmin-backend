@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "nombre": "global",
+    "tipo": "global"
+  },
+  {
+    "id": 2,
+    "nombre": "América",
+    "tipo": "continente",
+    "lugarPadre": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Europa",
+    "tipo": "continente",
+    "lugarPadre": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Asia",
+    "tipo": "continente",
+    "lugarPadre": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Africa",
+    "tipo": "continente",
+    "lugarPadre": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Oceania",
+    "tipo": "continente",
+    "lugarPadre": 1
+  },
+  {
+    "id": 7,
+    "nombre": "USA",
+    "tipo": "pais",
+    "lugarPadre": 2
+  },
+  {
+    "id": 8,
+    "nombre": "UK",
+    "tipo": "pais",
+    "lugarPadre": 3
+  },
+   {
+    "id": 9,
+    "nombre": "Corea del Sur",
+    "tipo": "pais",
+    "lugarPadre": 4
+   },
+   {
+    "id": 10,
+    "nombre": "Seúl",
+    "tipo": "ciudad",
+    "lugarPadre": 9
+   },
+      {
+       "id": 11,
+       "nombre": "China",
+       "tipo": "pais",
+       "lugarPadre": 4
+      },
+      {
+       "id": 12,
+       "nombre": "Hong Kong",
+       "tipo": "ciudad",
+       "lugarPadre": 11
+      }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nombre": "Billboard hot 100",
+    "plataforma": 3,
+    "lugar": 7,
+    "tipo": "cancion"
+  },
+  {
+    "id": 2,
+    "nombre": "Billboard hot 200",
+    "plataforma": 3,
+    "lugar": 7,
+    "tipo": "album"
+  },
+  {
+    "id": 3,
+    "nombre": "Media traffic - tracks",
+    "plataforma": 9,
+    "lugar": 1,
+    "tipo": "cancion"
+  },
+  {
+    "id": 4,
+    "nombre": "Media traffic - albums",
+    "plataforma": 9,
+    "lugar": 1,
+    "tipo": "album"
+  },
+  {
+    "id": 5,
+    "nombre": "itunes chart usa - tracks",
+    "plataforma": 4,
+    "lugar": 7,
+    "tipo": "cancion"
+  },
+  {
+    "id": 6,
+    "nombre": "itunes chart usa - albums",
+    "plataforma": 4,
+    "lugar": 7,
+    "tipo": "album"
+  },
+  {
+    "id": 7,
+    "nombre": "itunes chart global - tracks",
+    "plataforma": 4,
+    "lugar": 1,
+    "tipo": "cancion"
+  },
+  {
+    "id": 8,
+    "nombre": "itunes chart global - albums",
+    "plataforma": 4,
+    "lugar": 1,
+    "tipo": "album"
+  },
+  {
+    "id": 9,
+    "nombre": "spotify chart global - tracks",
+    "plataforma": 1,
+    "lugar": 1,
+    "tipo": "cancion"
+  },
+  {
+    "id": 10,
+    "nombre": "spotify chart global - albums",
+    "plataforma": 1,
+    "lugar": 1,
+    "tipo": "album"
+  },
+  {
+    "id": 11,
+    "nombre": "youtube chart global - views",
+    "plataforma": 2,
+    "lugar": 1,
+    "tipo": "video"
+  }
+]

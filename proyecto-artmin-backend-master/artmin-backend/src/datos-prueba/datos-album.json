@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "The Fame",
+    "duracionSegundos": "3020",
+    "fechaLanzamiento": "2008-08-19",
+    "descripcion": "The Fame is the debut studio album by American singer Lady Gaga. It was released on August 19, 2008, by Interscope Records. After joining Kon Live Distribution and Cherrytree Records in 2008, Gaga began working on the album with different producers, primarily RedOne, Martin Kierszenbaum, and Rob Fusari",
+    "anio": 2008,
+    "calificacion": 71,
+    "tipoAlbum": 1
+  },
+  {
+    "id": 2,
+    "nombre": "The Fame Monster",
+    "descripcion": "The Fame Monster is a reissue of American singer Lady Gaga's debut studio album, The Fame, and was released on November 18, 2009, through Interscope Records. Initially planned solely as a deluxe edition reissue of The Fame, Interscope later decided to release the eight new songs as a standalone EP in some territories.",
+    "duracionSegundos": "2049",
+    "fechaLanzamiento": "2009-11-18",
+    "anio": 2009,
+    "calificacion": 78,
+    "tipoAlbum": 3
+  },
+  {
+    "id": 3,
+    "nombre": "Born This Way",
+    "duracionSegundos": "3668",
+    "descripcion": "Born This Way is the second studio album by American singer Lady Gaga, released by Interscope Records on May 23, 2011. It was co-written and co-produced by Gaga with several producers, including RedOne and Fernando Garibay, with whom she had previously worked",
+    "fechaLanzamiento": "2011-05-23",
+    "anio": 2011,
+    "calificacion": 71,
+    "tipoAlbum": 1
+  },
+  {
+    "id": 4,
+    "nombre": "ARTPOP",
+    "duracionSegundos": "3544",
+    "descripcion": "Artpop is the third studio album recorded by American singer Lady Gaga. It was released on November 6, 2013, by Streamline and Interscope Records. Gaga began planning the project in 2011, shortly after the launch of her second effort, Born This Way.",
+    "fechaLanzamiento": "2013-11-11",
+    "anio": 2013,
+    "calificacion": 61,
+    "tipoAlbum": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Cheek to Cheek",
+    "descripcion": "Cheek to Cheek is a collaborative album by American singers Tony Bennett and Lady Gaga. It was released on September 19, 2014 by Interscope and Columbia Records. Bennett and Gaga first met at the Robin Hood Foundation gala in New York City in 2011.",
+    "duracionSegundos": "2073",
+    "fechaLanzamiento": "2014-09-23",
+    "anio": 2014,
+    "calificacion": 64,
+    "tipoAlbum": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Joanne",
+    "descripcion": "Joanne is the fifth studio album by American singer Lady Gaga. It was released on October 21, 2016, by Streamline and Interscope Records. Gaga, Mark Ronson and BloodPop handled its production with a variety of collaborators including Kevin Parker, Emile Haynie, Jeff Bhasker and Josh Homme",
+    "duracionSegundos": "2345",
+    "fechaLanzamiento": "2016-10-21",
+    "anio": 2016,
+    "calificacion": 67,
+    "tipoAlbum": 1
+  },
+  {
+    "id": 7,
+    "nombre": "A Star Is Born",
+    "descripcion": "A Star Is Born is the soundtrack album to the 2018 musical film of the same name, performed by its stars Lady Gaga and Bradley Cooper. It was released on October 5, 2018, by Interscope Records",
+    "duracionSegundos": "4201",
+    "fechaLanzamiento": "2018-10-25",
+    "anio": 2018,
+    "calificacion": 78,
+    "tipoAlbum": 5
+  },
+  {
+    "id": 8,
+    "nombre": "CHROMATICA",
+    "duracionSegundos": "2588",
+    "fechaLanzamiento": "2020-05-29",
+    "anio": 2020,
+    "calificacion": 79,
+    "descripcion": "Chromatica is the sixth studio album by American singer Lady Gaga. It was released on May 29, 2020, by Streamline and Interscope Records. Originally scheduled for April 10, 2020, the album's release was delayed for seven weeks, due to the COVID-19 pandemic. Gaga and BloodPop served as the album's executive producers.",
+    "tipoAlbum": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Bangerz",
+    "duracionSegundos": "2088",
+    "fechaLanzamiento": "2013-10-08",
+    "anio": 2013,
+    "calificacion": 70,
+    "descripcion": "Bangerz is the fourth studio album by American singer Miley Cyrus. It was released on September 30, 2013, by RCA Records. It is her first studio album since 2010's Can't Be Tamed.",
+    "tipoAlbum": 1
+  }
+]

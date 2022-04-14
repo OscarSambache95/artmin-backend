@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pop",
+    "descripcion": "El pop es otro ritmo derivado del blues y del rock and roll. Con grandes influencias del folk británico y el rhythm and blues, surgió el pop como una alternativa ligera y más comercial. Actualmente es uno de los géneros más vendidos en el mundo, y no está clara la frontera que separa la denominación \"pop\" para referirse simplemente a música comercial y popular, sea cual sea su género, o si estamos ante un tipo de música con identidad propia."
+  },
+  {
+    "id": 2,
+    "nombre": "Jazz",
+    "descripcion": "El jazz es una combinación del blues, música clásica y armonía europea. A finales del siglo XIX surgió este ritmo que dio al mundo a estrellas como Louis Armstrong, Ray Charles y Tito Puentes. Ciudades como Nueva Orleans, en Estados Unidos, son reconocidas mundialmente por sus jams de jazz"
+  },
+  {
+    "id": 3,
+    "nombre": "Rock and Roll",
+    "descripcion": "El rock and roll es un género musical que alcanzó enorme popularidad. Una combinación entre blues, country y rhythm and blues dio como resultado un ritmo que puso a bailar al mundo entero y que a la fecha es referente e influencia de grandes artistas"
+  },
+  {
+    "id": 4,
+    "nombre": "Rock",
+    "descripcion": "El rock se convirtió en otro de los géneros musicales que llegaron para quedarse. Cuando los grandes representantes del rock and roll fueron desapareciendo, las nuevas generaciones retomaron el ritmo y los instrumentos y lo transformaron en rock. Más ruido e instrumentos, pero menos baile."
+  },
+  {
+    "id": 5,
+    "nombre": "Country",
+    "descripcion": "Country es un género musical surgido en el sur de Estados Unidos. Se dice que sus inicios fueron en los años 20 y es el resultado de la mezcla del blues y el folk. La mandolina, el violín, el bajo y la guitarra acústica son los instrumentos característicos"
+  },
+  {
+    "id": 6,
+    "nombre": "Rap",
+    "descripcion": "El rap es un género musical en donde las letras de sus canciones tienen gran relevancia. Surgió en los barrios negros marginados de los años ochenta en Estados Unidos, principalmente Nueva York."
+  },
+  {
+    "id": 7,
+    "nombre": "Hip-Hop",
+    "descripcion": "El hip-hop se considera el antecedente directo del rap. Junto al graffitti y el breakdance, este tipo de música surge en los barrios, con un lenguaje típico de los jóvenes de la época. El objetivo es expresar las situaciones típicas de la vida en los barrios urbanos."
+  },
+  {
+    "id": 8,
+    "nombre": "Reggaeton",
+    "descripcion": "El reggaeton es un estilo musical de muy reciente creación. Se dice que comenzó en los años 80’s, pero es en la última década que ha alcanzado su mayor popularidad. Surge en Puerto Rico y retoma ritmos de reggae, rap y ritmos latinos."
+  },
+  {
+    "id": 9,
+    "nombre": "Disco",
+    "descripcion": "La música disco tuvo su mayor auge en los años setenta. Sin duda este género musical enmarca perfectamente toda una época en la historia de la humanidad. Es un tipo de música con mucho ritmo y muy bailable."
+  },
+  {
+    "id": 10,
+    "nombre": "Tejano",
+    "descripcion": "El tex-mex es un término que se usa en Estados Unidos para referirse a un estilo musical bailable originario de el noreste de México que fue adoptado por los texanos e introducido de manera cultural por los mexicanos de la región que forman el estado de Texas."
+  }
+]

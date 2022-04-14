@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "nombre": "Chromatica I",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "60",
+    "anio": 2020,
+    "tipoCancion": 2
+  },
+  {
+    "id": 2,
+    "nombre": "Alice",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "257",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 3,
+    "nombre": "Stupid Love",
+    "fechaLanzamiento": "2020-02-28",
+    "duracionSegundos": "194",
+    "anio": 2020,
+    "tipoCancion":  1
+  },
+  {
+    "id": 4,
+    "nombre": "Rain On Me",
+    "fechaLanzamiento": "2020-05-22",
+    "duracionSegundos": "182",
+    "anio": 2020,
+    "tipoCancion":  1
+  },
+  {
+    "id": 5,
+    "nombre": "Free Woman",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "191",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 6,
+    "nombre": "Fun Tonight",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "173",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 7,
+    "nombre": "Chromatica II",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "41",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 8,
+    "nombre": "911",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "172",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 9,
+    "nombre": "Plastic Doll",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "221",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 10,
+    "nombre": "Sour Candy",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "60",
+    "anio": 2020,
+    "tipoCancion":  3
+  },
+  {
+    "id": 11,
+    "nombre": "Enigma",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "179",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 12,
+    "nombre": "Replay",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "189",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 13,
+    "nombre": "Chromatica III",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "27",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 14,
+    "nombre": "Sine From Above",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "244",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 15,
+    "nombre": "1000 Doves",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "205",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 16,
+    "nombre": "Babylon",
+    "fechaLanzamiento": "2020-05-29",
+    "duracionSegundos": "181",
+    "anio": 2020,
+    "tipoCancion":  2
+  },
+  {
+    "id": 17,
+    "nombre": "Wrecking Ball",
+    "fechaLanzamiento": "2013-08-25",
+    "duracionSegundos": "221",
+    "anio": 2013,
+    "tipoCancion":  1
+  }
+]

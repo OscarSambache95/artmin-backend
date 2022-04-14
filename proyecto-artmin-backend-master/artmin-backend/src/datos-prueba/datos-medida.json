@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "reproducciones"
+  },
+  {
+    "id": 2,
+    "nombre": "visitas"
+  },
+  {
+    "id": 3,
+    "nombre": "unidades"
+  },
+  {
+    "id": 4,
+    "nombre": "horas"
+  },
+  {
+    "id": 5,
+    "nombre": "dias"
+  },
+  {
+    "id": 6,
+    "nombre": "semanas"
+  }
+]

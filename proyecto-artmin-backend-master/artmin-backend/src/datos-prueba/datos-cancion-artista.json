@@ -1,0 +1,92 @@
+[
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 1
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 2
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 3
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 4
+  },
+  {
+    "esArtistaPrincipal": 0,
+    "artista": 5,
+    "cancion": 4
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 5
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 6
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 7
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 8
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 9
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 10
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 11
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 12
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 13
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 14
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 15
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 1,
+    "cancion": 16
+  },
+  {
+    "esArtistaPrincipal": 1,
+    "artista": 2,
+    "cancion": 17
+  }
+]

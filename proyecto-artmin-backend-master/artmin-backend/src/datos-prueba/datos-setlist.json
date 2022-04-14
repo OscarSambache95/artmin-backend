@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "principal",
+    "fechaInicio": "2012-04-27",
+    "fechaFin": "2013-04-27",
+    "tieneActos": true,
+    "tour": 1
+  },
+  {
+    "id": 2,
+    "nombre": "secundario",
+    "fechaInicio": "2013-04-27",
+    "fechaFin": "2014-04-27",
+    "tieneActos": false,
+    "tour": 1
+  }
+]

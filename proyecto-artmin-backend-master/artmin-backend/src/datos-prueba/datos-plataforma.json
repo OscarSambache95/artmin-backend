@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "spotify",
+    "descripcion": "Spotify es una aplicación multiplataforma sueca, empleada para la reproducción de música vía streaming. Cuenta con un modelo de negocio «premium», un servicio gratuito básico y con publicidad; pero con características adicionales, con una mejor calidad de audio, a través de una suscripción de pago. Permite escuchar en «modo radio», buscando por artista, álbum o listas de reproducciones creadas por los propios usuarios.",
+    "tipo": "chart"
+  },
+  {
+    "id": 2,
+    "nombre": "youtube",
+    "descripcion": "YouTube es un sitio web de origen estadounidense dedicado a compartir videos. Presenta una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming. Las personas que crean contenido para esta plataforma generalmente son conocidas como youtubers.",
+    "tipo": "chart"
+  },
+  {
+    "id": 3,
+    "nombre": "billboard",
+    "descripcion": "Billboard es una revista semanal estadounidense y una lista especializada en información sobre la industria musical. También es una de las revistas especializadas más antiguas del mundo. Mantiene varias listas musicales, reconocidas internacionalmente, en las que se encuentran las canciones y álbumes más populares, clasificados en varias categorías. La lista más famosa, «Billboard Hot 100», clasifica las 100 primeras canciones independientemente del género musical al que pertenezcan, basándose en las ventas físicas, digitales, streaming y emisiones de radio. El «Billboard 200» es un listado de los 200 álbumes musicales más vendidos de los Estados Unidos",
+    "tipo": "chart"
+  },
+  {
+    "id": 4,
+    "nombre": "itunes",
+    "descripcion": "iTunes es un reproductor de medios y tienda de contenidos multimedia desarrollado por Apple con el fin de reproducir, organizar y sincronizar iPods, iPhones, iPads y comprar contenido multimedia. Su descarga está disponible para ordenadores y tabletas con Windows 10 a través de la tienda de aplicaciones Microsoft Store y para ordenadores con Windows 7 y Windows 8/8.1 desde la web oficial de Apple. La descarga de iTunes también se encuentra disponible para algunas versiones desactualizadas de MacOS desde la misma web oficial de Apple.",
+    "tipo": "chart"
+  },
+  {
+    "id": 5,
+    "nombre": "facebook",
+    "descripcion": "Facebook, Inc.es una compañía de origen estadounidense que ofrece servicios de redes sociales y medios sociales en línea con sede en Menlo Park, California. Su sitio web fue lanzado el 4 de febrero de 2004 por Mark Zuckerberg, junto con otros estudiantes de la Universidad de Harvard y compañeros de habitación, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz y Chris Hughes.",
+    "tipo": "red social"
+  },
+  {
+    "id": 6,
+    "nombre": "twitter",
+    "descripcion": "Twitter (pronunciación AFI es un servicio de microblogueo, con sede en San Francisco, California, EE. UU., con filiales en San Antonio (Texas) y Boston (Massachusetts) en Estados Unidos. Twitter, Inc. fue creado originalmente en California, pero está bajo la jurisdicción de Delaware desde 2007.",
+    "tipo": "red social"
+  },
+  {
+    "id": 7,
+    "nombre": "instagram",
+    "descripcion": "Instagram es una aplicación y red social de origen estadounidense, propiedad de Facebook, cuya función principal es poder compartir fotografías y vídeos con otros usuarios. Está disponible para dispositivos Android, iOS y Windows 10.",
+    "tipo": "red social"
+  },
+  {
+    "id": 8,
+    "nombre": "sitio web",
+    "descripcion": "",
+    "tipo": "red social"
+  },
+  {
+    "id": 9,
+    "nombre": "chart oficial",
+    "descripcion": "",
+    "tipo": "chart"
+  }
+]

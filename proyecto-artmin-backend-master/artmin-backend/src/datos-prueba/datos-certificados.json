@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "100.000.000 views",
+    "unidades": 100000000,
+    "chart": 11,
+    "medida": 2
+  },
+  {
+    "id": 2,
+    "nombre": "1.000.000.000 views",
+    "unidades": 1000000000,
+    "chart": 11,
+    "medida": 2
+  },
+  {
+    "id": 3,
+    "nombre": "100.000.000 plays",
+    "unidades": 100000000,
+    "chart": 3,
+    "medida": 1
+  },
+  {
+    "id": 4,
+    "nombre": "1.000.000.000 plays",
+    "unidades": 1000000000,
+    "chart": 3,
+    "medida": 1
+  },
+  {
+    "id": 5,
+    "nombre": "gold",
+    "unidades": 500000,
+    "chart": 2,
+    "medida": 3
+  },
+  {
+    "id": 6,
+    "nombre": "platinum",
+    "unidades": 1000000,
+    "chart": 2,
+    "medida": 3
+  },
+  {
+    "id": 7,
+    "nombre": "diamond",
+    "unidades": 10000000,
+    "chart": 2,
+    "medida": 3
+  }
+]

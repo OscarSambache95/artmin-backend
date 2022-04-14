@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "oficial"
+  },
+  {
+    "id": 2,
+    "nombre": "lirycs"
+  },
+  {
+    "id": 3,
+    "nombre": "audio"
+  },
+  {
+    "id": 4,
+    "nombre": "demand"
+  },
+  {
+    "id": 5,
+    "nombre": "live"
+  }
+]

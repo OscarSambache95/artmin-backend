@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "ACTO I",
+    "setlist": 1
+  },
+  {
+    "id": 2,
+    "nombre": "ACTO II",
+    "setlist": 1
+  },
+  {
+    "id": 3,
+    "nombre": "ACTO III",
+    "setlist": 1
+  }
+]

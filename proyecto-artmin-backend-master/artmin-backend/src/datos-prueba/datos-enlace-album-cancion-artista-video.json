@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1,
+    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+    "seguidores": 12771484,
+    "artista": 1,
+    "plataforma": 1
+  },
+  {
+    "id": 2,
+    "url": "https://www.youtube.com/channel/UCNL1ZadSjHpjm4q9j2sVtOA",
+    "seguidores": 17600000,
+    "artista": 1,
+    "plataforma": 2
+  },
+  {
+    "id": 3,
+    "url": "https://www.billboard.com/music/lady-gaga",
+    "artista": 1,
+    "plataforma": 3
+  },
+  {
+    "id": 4,
+    "url": "https://music.apple.com/us/artist/lady-gaga/277293880",
+    "artista": 1,
+    "plataforma": 4
+  },
+  {
+    "id": 5,
+    "url": "https://www.facebook.com/ladygaga/",
+    "artista": 1,
+    "plataforma": 5,
+    "seguidores": 57863935
+  },
+  {
+    "id": 6,
+    "url": "https://twitter.com/ladygaga",
+    "artista": 1,
+    "plataforma": 6,
+    "seguidores": 81752413
+  },
+  {
+    "id": 7,
+    "url": "https://www.instagram.com/ladygaga/",
+    "artista": 1,
+    "plataforma": 7,
+    "seguidores": 42977653
+  },
+  {
+    "id": 8,
+    "url": "https://www.ladygaga.com/",
+    "artista": 1,
+    "plataforma": 8
+  },
+  {
+    "id": 9,
+    "url": "https://open.spotify.com/embed/track/3CGZ7wfk4skmuyQgua1C1K",
+    "cancion": 1,
+    "plataforma": 1
+  },
+  {
+    "id": 10,
+    "url": "https://open.spotify.com/embed/track/41A89rj3GoMG6ktN37L7PG",
+    "cancion": 2,
+    "plataforma": 1
+  },
+  {
+    "id": 11,
+    "url": "https://open.spotify.com/embed/track/7yBbV2k2S2uhaQc24NF2xt",
+    "cancion": 3,
+    "plataforma": 1
+  },
+  {
+    "id": 12,
+    "url": "https://open.spotify.com/embed/track/7ju97lgwC2rKQ6wwsf9no9",
+    "cancion": 4,
+    "plataforma": 1
+  },
+  {
+    "id": 13,
+    "url": "https://open.spotify.com/embed/track/4L6ihclQPu1hqP9r3WNJjQ",
+    "cancion": 5,
+    "plataforma": 1
+  },
+  {
+    "id": 14,
+    "url": "https://open.spotify.com/embed/track/6hyQVqfHFvsJDjcmj4qrHf",
+    "cancion": 6,
+    "plataforma": 1
+  },
+  {
+    "id": 15,
+    "url": "https://open.spotify.com/embed/track/0oQc0F6KUE7QY7k5TU6bic",
+    "cancion": 7,
+    "plataforma": 1
+  },
+  {
+    "id": 16,
+    "url": "https://open.spotify.com/embed/track/6qI0MU175Dk2DeoUjlrOpy",
+    "cancion": 8,
+    "plataforma": 1
+  },
+  {
+    "id": 17,
+    "url": "https://open.spotify.com/embed/track/3CidPLqWXqgesJlwYVJZdy",
+    "cancion": 9,
+    "plataforma": 1
+  },
+  {
+    "id": 18,
+    "url": "https://open.spotify.com/embed/track/1IWNylpZ477gIVUDpJL66u",
+    "cancion": 10,
+    "plataforma": 1
+  },
+  {
+    "id": 19,
+    "url": "https://open.spotify.com/embed/track/7JDbfYUHjDzQPFSDh5lzGs",
+    "cancion": 11,
+    "plataforma": 1
+  },
+  {
+    "id": 20,
+    "url": "https://open.spotify.com/embed/track/7sKbyYeJnITO1Eh9xd0lKd",
+    "cancion": 12,
+    "plataforma": 1
+  },
+  {
+    "id": 21,
+    "url": "https://open.spotify.com/embed/track/6kXRZSe28BawCiEdME8YLk",
+    "cancion": 13,
+    "plataforma": 1
+  },
+  {
+    "id": 22,
+    "url": "https://open.spotify.com/embed/track/0zzsyWc45eUcSjw4FNHxeN",
+    "cancion": 14,
+    "plataforma": 1
+  },
+  {
+    "id": 23,
+    "url": "https://open.spotify.com/embed/track/62hTXlVQacy3pjBW4ntRPl",
+    "cancion": 15,
+    "plataforma": 1
+  },
+  {
+    "id": 24,
+    "url": "https://open.spotify.com/embed/track/5DttNeiizFqWUON9hZBqTY",
+    "cancion": 16,
+    "plataforma": 1
+  },
+  {
+    "id": 25,
+    "url": "https://open.spotify.com/embed/track/2vwlzO0Qp8kfEtzTsCXfyE",
+    "cancion": 17,
+    "plataforma": 1
+  },
+  {
+    "id": 26,
+    "url": "https://open.spotify.com/embed/album/1qwlxZTNLe1jq3b0iidlue",
+    "album": 1,
+    "plataforma": 1
+  },
+  {
+    "id": 27,
+    "url": "https://open.spotify.com/embed/album/58WSd6SDPOcbnnJ2tq0Ph8",
+    "album": 2,
+    "plataforma": 1
+  },
+  {
+    "id": 28,
+    "url": "https://open.spotify.com/embed/album/6LY3AerY6KNGOPsNPL63Kk",
+    "album": 3,
+    "plataforma": 1
+  },
+  {
+    "id": 29,
+    "url": "https://open.spotify.com/embed/album/2eRJUtI7nXrQ5uYQ7tzTo9",
+    "album": 4,
+    "plataforma": 1
+  },
+  {
+    "id": 30,
+    "url": "https://open.spotify.com/embed/album/2VX9rp6NAC19TQN4IgkmYu",
+    "album": 5,
+    "plataforma": 1
+  },
+  {
+    "id": 31,
+    "url": "https://open.spotify.com/embed/album/2ZUwFxlWo0gwTsvZ6L4Meh",
+    "album": 6,
+    "plataforma": 1
+  },
+  {
+    "id": 32,
+    "url": "https://open.spotify.com/embed/album/3edjzMAVB9RYRd4UcZBchx",
+    "album": 7,
+    "plataforma": 1
+  },
+  {
+    "id": 33,
+    "url": "https://open.spotify.com/embed/album/05c49JgPmL4Uz2ZeqRx5SP",
+    "album": 8,
+    "plataforma": 1
+  },
+  {
+    "id": 34,
+    "url": "https://www.youtube.com/embed/5L6xyaeiV58",
+    "video": 1,
+    "plataforma": 2
+  },
+  {
+    "id": 35,
+    "url": "https://www.youtube.com/embed/AoAm4om0wTs",
+    "video": 2,
+    "plataforma": 2
+  },
+  {
+    "id": 36,
+    "url": "https://www.youtube.com/embed/ugQhauUEcJM",
+    "video": 3,
+    "plataforma": 2
+  },
+  {
+    "id": 37,
+    "url": "https://www.youtube.com/embed/Fc2qWBIToKU",
+    "video": 4,
+    "plataforma": 2
+  },
+  {
+    "id": 38,
+    "url": "https://www.youtube.com/embed/fnPn6At3v28",
+    "video": 5,
+    "plataforma": 2
+  }
+]

@@ -1,0 +1,425 @@
+[
+  {
+    "id": 1,
+    "url": "imagen-artista-1-2020-06-08T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Photoshoot CHROMATICA",
+    "esPrincipal": 1,
+    "artista": 1
+  },
+  {
+    "id": 2,
+    "url": "imagen-artista-2-2020-06-08T21:20:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Photoshoot SHE IS COMING",
+    "esPrincipal": 1,
+    "artista": 2
+  },
+  {
+    "id": 3,
+    "url": "imagen-artista-3-2020-06-08T21:19:50-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Photoshoot AMOR PROHIBIDO",
+    "esPrincipal": 1,
+    "artista": 3
+  },
+  {
+    "id": 4,
+    "url": "imagen-artista-4-2020-06-08T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Photoshoot VIDEO",
+    "esPrincipal": 1,
+    "artista": 4
+  },
+  {
+    "id": 5,
+    "url": "imagen-artista-5-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Photoshoot ADIDAS 2018",
+    "esPrincipal": 1,
+    "artista": 5
+  },
+  {
+    "id": 6,
+    "url": "imagen-artista-6-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "",
+    "esPrincipal": 1,
+    "artista": 6
+  },
+  {
+    "id": 7,
+    "url": "imagen-artista-7-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Photoshoot ADIDAS 2018",
+    "esPrincipal": 1,
+    "artista": 7
+  },
+  {
+    "id": 8,
+    "url": "imagen-artista-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Photoshoot ADIDAS 2018",
+    "esPrincipal": 1,
+    "artista": 8
+  },
+  {
+    "id": 9,
+    "url": "imagen-album-1-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 1
+  },
+  {
+    "id": 10,
+    "url": "imagen-album-2-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 2
+  },
+  {
+    "id": 11,
+    "url": "imagen-album-3-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 3
+  },
+  {
+    "id": 12,
+    "url": "imagen-album-4-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 4
+  },
+  {
+    "id": 13,
+    "url": "imagen-album-5-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 5
+  },
+  {
+    "id": 14,
+    "url": "imagen-album-6-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 6
+  },
+  {
+    "id": 15,
+    "url": "imagen-album-7-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 7
+  },
+  {
+    "id": 16,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 8
+  },
+  {
+    "id": 17,
+    "url": "imagen-album-9-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "album": 9
+  },
+  {
+    "id": 18,
+    "url": "imagen-cancion-3-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 3
+  },
+  {
+    "id": 19,
+    "url": "imagen-cancion-4-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 4
+  },
+  {
+    "id": 20,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 2
+  },
+  {
+    "id": 21,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 5
+  },
+  {
+    "id": 22,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 6
+  },
+  {
+    "id": 23,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 7
+  },
+  {
+    "id": 24,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 8
+  },
+  {
+    "id": 25,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 9
+  },
+  {
+    "id": 26,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 10
+  },
+  {
+    "id": 27,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 11
+  },
+  {
+    "id": 28,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 12
+  },
+  {
+    "id": 29,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 13
+  },
+  {
+    "id": 30,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 14
+  },
+  {
+    "id": 31,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 15
+  },
+  {
+    "id": 32,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 16
+  },
+  {
+    "id": 33,
+    "url": "imagen-album-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 1
+  },
+  {
+    "id": 34,
+    "url": "imagen-cancion-24-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "cancion": 17
+  },
+  {
+    "id": 35,
+    "url": "imagen-plataforma-1-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 1
+  },
+  {
+    "id": 36,
+    "url": "imagen-plataforma-2-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 2
+  },
+  {
+    "id": 37,
+    "url": "imagen-plataforma-3-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 3
+  },
+  {
+    "id": 38,
+    "url": "imagen-plataforma-4-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 4
+  },
+  {
+    "id": 39,
+    "url": "imagen-plataforma-5-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 5
+  },
+  {
+    "id": 40,
+    "url": "imagen-plataforma-6-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 6
+  },
+  {
+    "id": 41,
+    "url": "imagen-plataforma-7-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 7
+  },
+  {
+    "id": 42,
+    "url": "imagen-plataforma-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 8
+  },
+  {
+    "id": 43,
+    "url": "imagen-plataforma-9-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "plataforma": 9
+  },
+  {
+    "id": 44,
+    "url": "imagen-lugar-1-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "",
+    "esPrincipal": 1,
+    "lugar": 1
+  },
+  {
+    "id": 45,
+    "url": "imagen-lugar-7-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "",
+    "esPrincipal": 1,
+    "lugar": 7
+  },
+  {
+    "id": 46,
+    "url": "imagen-lugar-8-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Portada",
+    "esPrincipal": 1,
+    "lugar": 8
+  },
+  {
+    "id": 47,
+    "url": "imagen-tour-1-2020-06-18T21:19:32-05:00.jpg",
+    "ancho": 0,
+    "largo": 0,
+    "descripcion": "Tour",
+    "esPrincipal": 1,
+    "tour": 1
+  }
+]

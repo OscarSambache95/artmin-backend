@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "nombre": "Lady Gaga",
+    "descripcion": "Stefani Joanne Angelina Germanotta, conocida profesionalmente como Lady Gaga, es una cantante, compositora, productora discográfica, actriz y empresaria estadounidense. Es conocida por reinventarse a lo largo de su carrera y por su versatilidad en numerosas áreas de la industria del entretenimiento.",
+    "anioDebut": 2008,
+    "fechaNacimiento": "1986-03-28"
+  },
+  {
+    "id": "2",
+    "nombre": "Miley Cyrus",
+    "descripcion": "Miley Ray Cyrus es una cantante, compositora, actriz y juez de televisión estadounidense. Su música abarca una variedad de estilos, desde pop y country hasta hip hop. La vida personal, la imagen pública y las actuaciones de Cyrus a menudo han generado controversia y han recibido una amplia cobertura mediática.",
+    "anioDebut": 2006,
+    "fechaNacimiento": "1993-11-23"
+  },
+  {
+    "id": "3",
+    "nombre": "Selena Quintanilla",
+    "descripcion": "Selena Quintanilla-Pérez fue una cantante, compositora, portavoz, modelo, actriz y diseñadora de moda estadounidense. Llamada la reina de la música tejana, sus contribuciones a la música y la moda la convirtieron en una de las artistas mexicoamericanas más famosas de finales del siglo XX.",
+    "anioDebut": 1981,
+    "fechaNacimiento": "1971-04-16"
+  },
+  {
+    "id": "4",
+    "nombre": "Katy Perry",
+    "descripcion": "Katheryn Elizabeth Hudson, known by her stage name Katy Perry, is an American singer, songwriter and television judge. After singing in church during her childhood, she pursued a career in gospel music as a teenager.",
+    "anioDebut": 2008,
+    "fechaNacimiento": "1984-10-25"
+  },
+  {
+    "id": "5",
+    "nombre": "Ariana Grande",
+    "descripcion": "Ariana Grande-Butera is an American singer, songwriter, and actress. She is best known for her expansive four-octave vocal range and whistle register. Born in Boca Raton, Florida, Grande began her career in the 2008 Broadway musical 13",
+    "anioDebut": 2011,
+    "fechaNacimiento": "1993-06-26"
+  },
+  {
+    "id": "6",
+    "nombre": "Selena Gomez",
+    "descripcion": "Selena Marie Gomez is an American singer, songwriter, actress, and television producer. Born and raised in Texas, Gomez began her career by appearing on the children's television series Barney and Friends",
+    "anioDebut": 2002,
+    "fechaNacimiento": "1992-07-22"
+  },
+  {
+    "id": "7",
+    "nombre": "Taylor Swift",
+    "descripcion": "Taylor Alison Swift is an American singer-songwriter, record producer, and actress. She is best known for her narrative songwriting that often centers around her personal life, which has received widespread critical praise and media coverage",
+    "anioDebut": 2003,
+    "fechaNacimiento": "1989-12-13"
+  },
+  {
+    "id": "8",
+    "nombre": "Demi Lovato",
+    "descripcion": "Demetria Devonne Lovato is an American singer, songwriter, actress, and television personality. After appearing on the children's television series Barney and Friends, she rose to prominence for her role as Mitchie Torres in the Disney Channel musical television film Camp Rock and its sequel Camp Rock 2: The Final Jam.",
+    "anioDebut": 2002,
+    "fechaNacimiento": "1992-08-20"
+  }
+]

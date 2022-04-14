@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Studio"
+  },
+  {
+    "id": 2,
+    "nombre": "LP"
+  },
+  {
+    "id": 3,
+    "nombre": "EP"
+  },
+  {
+    "id": 4,
+    "nombre": "Deluxe"
+  },
+  {
+    "id": 5,
+    "nombre": "Soundtrack"
+  },
+  {
+    "id": 6,
+    "nombre": "Re-edition"
+  },
+  {
+    "id": 7,
+    "nombre": "Live"
+  },
+  {
+    "id": 8,
+    "nombre": "Double"
+  }
+]
