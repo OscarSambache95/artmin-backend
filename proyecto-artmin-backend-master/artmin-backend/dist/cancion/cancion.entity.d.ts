@@ -1,0 +1,34 @@
+import { PrincipalEntity } from '../principal/principal-entity';
+import { AlbumCancionEntity } from '../album-cancion/album-cancion.entity';
+import { CancionArtistaEntity } from '../cancion-artista/cancion-artista.entity';
+import { GeneroArtistaAlbumCancionEntity } from '../genero-artista-album-cancion/genero-artista-album-cancion.entity';
+import { ChartAlbumCancionArtistaVideoEntity } from '../chart-album-cancion-artista-video/chart-album-cancion-artista-video.entity';
+import { SetlistEntity } from '../setlist/setlist.entity';
+import { NominacionArtistaAlbumCancionVideoEntity } from '../nominacion-artista-album-cancion-video/nominacion-artista-album-cancion-video.entity';
+import { ImagenEntity } from '../imagen/imagen.entity';
+import { VideoEntity } from '../video/video.entity';
+import { EnlaceAlbumCancionArtistaVideoEntity } from '../enlace-album-cancion-artista-video/enlace-album-cancion-artista-video.entity';
+import { TipoCancionEntity } from '../tipo-cancion/tipo-cancion.entity';
+import { UnidadAlbumCancionVideoEntity } from '../unidad-album-cancion-video/unidad-album-cancion-video.entity';
+import { CertificadoChartEntity } from '../certificado-chart/certificado-chart.entity';
+import { RecordChartEntity } from '../record-chart/record-chart.entity';
+export declare class CancionEntity extends PrincipalEntity {
+    nombre: string;
+    descripcion: string;
+    duracionSegundos: number;
+    fechaLanzamiento: string;
+    anio: number;
+    tipoCancion: TipoCancionEntity | number;
+    albumesCancion: AlbumCancionEntity[];
+    artistasCancion: CancionArtistaEntity[];
+    generosCancion: GeneroArtistaAlbumCancionEntity[];
+    chartsCancion: ChartAlbumCancionArtistaVideoEntity[];
+    setlistsCancion: SetlistEntity[];
+    nominacionesCancion: NominacionArtistaAlbumCancionVideoEntity[];
+    imagenesCancion: ImagenEntity[];
+    videoCancion: VideoEntity[];
+    enlacesCancion: EnlaceAlbumCancionArtistaVideoEntity[];
+    unidadesCancion: UnidadAlbumCancionVideoEntity[];
+    certificadosCancion: CertificadoChartEntity[];
+    recordsCancion: RecordChartEntity[];
+}
