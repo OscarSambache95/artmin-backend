@@ -5841,7 +5841,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var environment = {
     'production': false,
-    'url': 'http://localhost',
+    'url': 'http://206.189.182.204',
     'port': '8080',
     'pathImagenes': '/imagenes'
 };
